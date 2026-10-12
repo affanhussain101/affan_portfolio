@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/affan_portfolio/static/css/main.aa71299d.css",
+    "main.js": "/affan_portfolio/static/js/main.e86d4d5e.js",
+    "static/js/453.9ec781ba.chunk.js": "/affan_portfolio/static/js/453.9ec781ba.chunk.js",
+    "static/media/mock13.png": "/affan_portfolio/static/media/mock13.f76a1e5393f17c81efc5.png",
+    "static/media/bg-light.png": "/affan_portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock08.png": "/affan_portfolio/static/media/mock08.996305abb9be64f6b1f6.png",
+    "static/media/bg-dark.png": "/affan_portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock07.png": "/affan_portfolio/static/media/mock07.b8d899e8d579ba3c2249.png",
+    "static/media/mock12.png": "/affan_portfolio/static/media/mock12.80436e474f56698dd4e0.png",
+    "static/media/mock11.png": "/affan_portfolio/static/media/mock11.3a0f54d84ee6ef4ffcb3.png",
+    "static/media/profile.png": "/affan_portfolio/static/media/profile.8f1a699401eed9f92b60.png",
+    "static/media/mock10.png": "/affan_portfolio/static/media/mock10.df9c70f0af756668d20b.png",
+    "index.html": "/affan_portfolio/index.html",
+    "main.aa71299d.css.map": "/affan_portfolio/static/css/main.aa71299d.css.map",
+    "main.e86d4d5e.js.map": "/affan_portfolio/static/js/main.e86d4d5e.js.map",
+    "453.9ec781ba.chunk.js.map": "/affan_portfolio/static/js/453.9ec781ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa71299d.css",
+    "static/js/main.e86d4d5e.js"
+  ]
+}
